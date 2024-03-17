@@ -22,4 +22,5 @@ It is meant to guide me for when I decide to act on the building
 | Index                    |
 ----------------------------
 | [DVR software and specs](DVR) |
-| [Home automation](HomeAutomation)
+| [Home automation](HomeAutomation) |
+| [Findings](Findings) |
