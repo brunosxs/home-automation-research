@@ -18,4 +18,4 @@ Matter is a new spec for intercommunication between smart things. It should be p
 
 ## Software:
 - [Zigbee2MQTT](https://www.zigbee2mqtt.io/guide/getting-started/): This is freaking buggy, couldn´t make it work properly on the pi having an error related to timeout of the zigbee dongle, this does not happen on homeassistant so I am going to try to move everything to that
-- HomeAssistant: Better option, can handle anything. I just wnat to separate zigbee from the rest of the things simply because of power consumption. Check if I can work something like master/slave relationship on homeassistant.
+- HomeAssistant: Better option, can handle anything. If the device has a zigbee dongle you can setup zigbee devices pretty easily. Has a very good android app. Can tackle so much more, from home automation to power metric consumption, to DVR functionality.
