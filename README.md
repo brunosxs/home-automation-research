@@ -1,3 +1,3 @@
 My personal research on home automation.
 
-[Start here](Start)
+[Start here](Start.md)

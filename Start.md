@@ -1,7 +1,7 @@
 # Start
 
 This document is meant to provide guidance for when I start doing home automation, integrating my servers and DVR cctv stuff.
-It is meant to guide me for when I decide to act on the actual execution of it.
+It is meant to guide me for when I decide to start the actual execution of it.
 
 ## Overall requirements:
 
@@ -21,6 +21,6 @@ It is meant to guide me for when I decide to act on the actual execution of it.
 ----------------------------
 | Index                    |
 ----------------------------
-| [DVR software and specs](DVR) |
-| [Home automation](HomeAutomation) |
-| [Findings](Findings) |
+| [DVR software and specs](DVR.md) |
+| [Home automation](HomeAutomation.md) |
+| [Findings](Findings.md) |
